@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_svg-wrapper svg-icon-search</name>
+   <tag></tag>
+   <elementGuidId>9bfd6a4a-c119-4ac7-8f4e-59438e1a5c6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.svg-wrapper.svg-icon-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='brand-header']/nav/div/div/div/div[3]/form/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e7be9c30-8629-44aa-a3b4-f2609af9e679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-wrapper svg-icon-search</value>
+      <webElementGuid>6adb53c7-df99-4312-ab43-30d5cde19500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brand-header&quot;)/nav[@class=&quot;nav-wrapper col-nav-wrapper&quot;]/div[@class=&quot;sticky-element navigation-shadows&quot;]/div[@class=&quot;header-wrapper container-fluid container-margin d-flex align-items-center justify-content-between&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;search d-none d-sm-none d-md-block&quot;]/form[@class=&quot;global-search-form&quot;]/div[@class=&quot;field-input-label col-field-input-label label-animation&quot;]/div[@class=&quot;search-suggestions-actions&quot;]/button[@class=&quot;search-button&quot;]/span[@class=&quot;svg-wrapper svg-icon-search&quot;]</value>
+      <webElementGuid>3ee45174-43ea-4214-ab99-fffc7b790481</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='brand-header']/nav/div/div/div/div[3]/form/div/div/button/span</value>
+      <webElementGuid>7987c459-9c17-4ffa-880c-de4626d99120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/button/span</value>
+      <webElementGuid>ad197615-94e1-41b6-af4d-df6a700f0da2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
