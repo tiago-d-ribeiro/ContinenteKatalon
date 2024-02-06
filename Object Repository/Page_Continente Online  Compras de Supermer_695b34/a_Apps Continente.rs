@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Apps Continente</name>
+   <tag></tag>
+   <elementGuidId>29fe4b6e-90a4-4773-8685-c86bc8e70b09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footercontent']/div[2]/div/div/div[3]/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12.col-md-4.d-none.d-md-block > div.content-asset > ul.ct-menu-list > li.ct-footer-link > a[title=&quot;Go to Apps Continente&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0c7efbea-ed2d-416b-a78b-46d5c11e56cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/loja-online/apps/apps-continente.html</value>
+      <webElementGuid>d3ce8792-f930-46d9-89ec-222ad598257f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Go to Apps Continente</value>
+      <webElementGuid>de38a115-399f-4763-bcf4-7faca3ac0f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apps Continente</value>
+      <webElementGuid>ae69150a-f57b-4873-ac44-f1747266af55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footercontent&quot;)/div[@class=&quot;container-fluid no-padding ct-modal-dialog-secondary-grey1 ct-font--opensans-book&quot;]/div[@class=&quot;pwc-container&quot;]/div[@class=&quot;row no-gutters footer-container pwc-container--px-70&quot;]/div[@class=&quot;col-12 col-md-4 d-none d-md-block&quot;]/div[@class=&quot;content-asset&quot;]/ul[@class=&quot;ct-menu-list&quot;]/li[@class=&quot;ct-footer-link&quot;]/a[1]</value>
+      <webElementGuid>0a3c93b7-dd0c-4085-9bca-55f5c7c6ce15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footercontent']/div[2]/div/div/div[3]/div/ul/li[3]/a</value>
+      <webElementGuid>ab17812e-c521-4478-8aef-5bc64189e399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Apps Continente')])[2]</value>
+      <webElementGuid>8e8eb7e1-db0d-4773-8ad4-5a5f38b89ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.continente.pt/loja-online/apps/apps-continente.html')])[3]</value>
+      <webElementGuid>d7aac612-e6b4-4872-bb3c-c757dc6c6d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div[2]/div/div/div[3]/div/ul/li[3]/a</value>
+      <webElementGuid>78ada798-7618-4afa-8fe7-0ef7a47858f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.continente.pt/loja-online/apps/apps-continente.html' and @title = 'Go to Apps Continente' and (text() = 'Apps Continente' or . = 'Apps Continente')]</value>
+      <webElementGuid>f2f4ba47-8996-47d0-896a-0503cc6e7495</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

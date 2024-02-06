@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lojas Perto de Si</name>
+   <tag></tag>
+   <elementGuidId>e9dddce0-1cf1-4698-8b70-70ca6a433436</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footercontent']/div[2]/div/div/div[3]/div/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12.col-md-4.d-none.d-md-block > div.content-asset > ul.ct-menu-list > li.ct-footer-link > a[title=&quot;Lojas Perto de Si&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8f95eaff-65d8-46b3-869d-b17971f3edee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/institucional/nossas-lojas.html</value>
+      <webElementGuid>f63ba8e6-f104-4162-b319-7102185b698b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_top</value>
+      <webElementGuid>61868165-c2b1-43b2-a07d-7db4738e50f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Lojas Perto de Si</value>
+      <webElementGuid>a1dbda1f-53a9-4f96-b4bb-fc23adfb747e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lojas Perto de Si</value>
+      <webElementGuid>b679a83c-aeed-4d7d-9674-5b786f7eabd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footercontent&quot;)/div[@class=&quot;container-fluid no-padding ct-modal-dialog-secondary-grey1 ct-font--opensans-book&quot;]/div[@class=&quot;pwc-container&quot;]/div[@class=&quot;row no-gutters footer-container pwc-container--px-70&quot;]/div[@class=&quot;col-12 col-md-4 d-none d-md-block&quot;]/div[@class=&quot;content-asset&quot;]/ul[@class=&quot;ct-menu-list&quot;]/li[@class=&quot;ct-footer-link&quot;]/a[1]</value>
+      <webElementGuid>0ed311c7-51ac-4091-b18f-4e16cced3b7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footercontent']/div[2]/div/div/div[3]/div/ul/li[4]/a</value>
+      <webElementGuid>d3a89bb8-4f55-4a8a-82dc-2c0c475c8afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lojas Perto de Si')])[2]</value>
+      <webElementGuid>5957ab2e-5a69-4d61-94c0-7c7d44eded12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.continente.pt/institucional/nossas-lojas.html')])[2]</value>
+      <webElementGuid>8040b5ba-5da9-43eb-b011-c9b16522cefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div[2]/div/div/div[3]/div/ul/li[4]/a</value>
+      <webElementGuid>89fa4f16-8ebb-42f6-bc86-541e03dcdb29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.continente.pt/institucional/nossas-lojas.html' and @title = 'Lojas Perto de Si' and (text() = 'Lojas Perto de Si' or . = 'Lojas Perto de Si')]</value>
+      <webElementGuid>7fc43aeb-73d3-4d2a-a7d4-f230802d6699</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

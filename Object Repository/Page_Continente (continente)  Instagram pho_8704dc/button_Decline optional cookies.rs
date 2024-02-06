@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Decline optional cookies</name>
+   <tag></tag>
+   <elementGuidId>d15c30cf-bfe8-4f24-b807-928ea4955709</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._a9--._ap36._a9_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>21d17cbe-f6ea-4b31-985d-c054f132dd08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_a9-- _ap36 _a9_1</value>
+      <webElementGuid>5e1c09ff-0d56-4aad-9295-15a75d774a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a8d669a7-3335-4e2a-8237-5992289020dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Decline optional cookies</value>
+      <webElementGuid>81d2bb17-3292-4a65-9702-e3c8a3bb3c81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;_9dls js-focus-visible _aa4c&quot;]/body[@class=&quot;_a3wf system-fonts--body segoe&quot;]/div[@class=&quot;x1n2onr6 xzkaem6&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf xg6iff7 x1n2onr6&quot;]/div[@class=&quot;x1uvtmcs x4k7w5x x1h91t0o x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1n2onr6 x1qrby5j x1jfb8zj&quot;]/div[@class=&quot;x1qjc9v5 x9f619 x78zum5 xdt5ytf x1iyjqo2 xl56j7k&quot;]/div[@class=&quot;x1cy8zhl x9f619 x78zum5 xl56j7k x2lwn1j xeuugli x47corl&quot;]/div[@class=&quot;x1ja2u2z x1afcbsf x1a2a7pz x6ikm8r x10wlt62 x71s49j x6s0dn4 x78zum5 xdt5ytf xl56j7k x1n2onr6&quot;]/div[@class=&quot;xs83m0k x1sy10c2 x1h5jrl4 xieb3on xmn8rco x1iy3rx x1n2onr6 xo1d8dh x1m7g9aj xy2hj3m xir0mxb x19osjzx x1juhsu6 xnfgh3p x61jkv3 x1u827li xsw4t2s x1u6teax xa8ff0x x1crxz2b xodhs97 xr2spqc&quot;]/div[@class=&quot;x7r02ix xf1ldfh x131esax xdajt7p xxfnqb6 xb88tzc xw2csxc x1odjw0f x5fp0pe x5yr21d x19onx9a&quot;]/div[1]/button[@class=&quot;_a9-- _ap36 _a9_1&quot;]</value>
+      <webElementGuid>45aed48b-1c42-400c-920a-85d7ae6ead24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>0de0d6cf-b22f-4639-bc8e-015f25e0edd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Decline optional cookies' or . = 'Decline optional cookies')]</value>
+      <webElementGuid>05783c47-77ab-4023-a9e0-8895f0f494d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

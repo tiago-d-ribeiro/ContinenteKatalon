@@ -19,9 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TestesContinente/AbrirPáginaContinente'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_695b34/input_q'), 'Cereais')
-
 WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_695b34/span_d-inline-block svgbg-icon-facebook'))
 
-WebUI.navigateToUrl('https://www.continente.pt/pesquisa/?q=Cereais&start=0&srule=Continente&pmin=0.01')
+WebUI.switchToWindowUrl('https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fcontinentept%3Fcbrd%3D1&gl=PT&m=0&pc=yt&cm=2&hl=en-GB&src=1')
+
+WebUI.navigateToUrl('https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fcontinentept%3Fcbrd%3D1&gl=PT&m=0&pc=yt&cm=2&hl=en-GB&src=1')
+
+WebUI.click(findTestObject('Object Repository/Page_Before you continue to YouTube/span_Reject all'))
+
+WebUI.click(findTestObject('Object Repository/Page_Continente - YouTube/button_ytp-play-button ytp-button'))
 
