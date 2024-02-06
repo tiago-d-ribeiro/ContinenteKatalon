@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Intermediao de Crdito</name>
+   <tag></tag>
+   <elementGuidId>138ce614-531b-43e5-ba0d-fccd6373b2de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footercontent']/div[2]/div/div/div[3]/div/ul/li[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12.col-md-4.d-none.d-md-block > div.content-asset > ul.ct-menu-list > li.ct-footer-link > a[title=&quot;Intermediação de Crédito&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0610a066-5105-42e7-8b0b-218961899bf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://static.continente.pt/images/Continente/pdfs/intermediacao_credito/inf_pre_contratual-universo_revisao_marco_2023.pdf?_gl=1*1s5n5bm*_ga*MTg2ODU3OTQ3My4xNzA3MjI4NzU3*_ga_56Q9X41Z3T*MTcwNzIyODc1NC4xLjAuMTcwNzIyODc2MS41OC4wLjA.</value>
+      <webElementGuid>55f35370-a73d-4be8-8bb8-7ce7876fa1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Intermediação de Crédito</value>
+      <webElementGuid>82f1333d-4bb3-42e2-bbbe-3b59ad8c4326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>791b15cf-e3d0-4132-8165-0ef5edf17a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intermediação de Crédito</value>
+      <webElementGuid>7f51cd88-015f-41bf-9e55-15a01806a253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footercontent&quot;)/div[@class=&quot;container-fluid no-padding ct-modal-dialog-secondary-grey1 ct-font--opensans-book&quot;]/div[@class=&quot;pwc-container&quot;]/div[@class=&quot;row no-gutters footer-container pwc-container--px-70&quot;]/div[@class=&quot;col-12 col-md-4 d-none d-md-block&quot;]/div[@class=&quot;content-asset&quot;]/ul[@class=&quot;ct-menu-list&quot;]/li[@class=&quot;ct-footer-link&quot;]/a[1]</value>
+      <webElementGuid>2b2721b4-a671-4f60-adc7-386291adade7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footercontent']/div[2]/div/div/div[3]/div/ul/li[8]/a</value>
+      <webElementGuid>e7c20730-e515-42e1-a5cb-788e8307a968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Intermediação de Crédito')])[2]</value>
+      <webElementGuid>b38ca0c3-bef4-4cc1-bcfe-d9d1976a460f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://static.continente.pt/images/Continente/pdfs/intermediacao_credito/inf_pre_contratual-universo_revisao_marco_2023.pdf?_gl=1*1s5n5bm*_ga*MTg2ODU3OTQ3My4xNzA3MjI4NzU3*_ga_56Q9X41Z3T*MTcwNzIyODc1NC4xLjAuMTcwNzIyODc2MS41OC4wLjA.')]</value>
+      <webElementGuid>c44c1763-e8be-42fd-9d59-665c44b5f90f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div/ul/li[8]/a</value>
+      <webElementGuid>c3654de0-68cc-400d-8c1a-c740c15d8a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://static.continente.pt/images/Continente/pdfs/intermediacao_credito/inf_pre_contratual-universo_revisao_marco_2023.pdf?_gl=1*1s5n5bm*_ga*MTg2ODU3OTQ3My4xNzA3MjI4NzU3*_ga_56Q9X41Z3T*MTcwNzIyODc1NC4xLjAuMTcwNzIyODc2MS41OC4wLjA.' and @title = 'Intermediação de Crédito' and (text() = 'Intermediação de Crédito' or . = 'Intermediação de Crédito')]</value>
+      <webElementGuid>b88c780f-fcf5-44e6-b0d6-d39143958236</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

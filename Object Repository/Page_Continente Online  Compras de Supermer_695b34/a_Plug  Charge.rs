@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Plug  Charge</name>
+   <tag></tag>
+   <elementGuidId>3f142692-b447-4ad7-8960-58f5d38fb3c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footercontent']/div[2]/div/div/div[3]/div/ul/li[9]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12.col-md-4.d-none.d-md-block > div.content-asset > ul.ct-menu-list > li.ct-footer-link > a[title=&quot;Plug &amp; Charge&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>20dec6a3-e2e7-4c7a-bcfb-0ef0bd471657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/servicos/plug-and-charge/</value>
+      <webElementGuid>d76c7ab6-3450-48ec-9aed-d3b8fc0c7b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Plug &amp; Charge</value>
+      <webElementGuid>12550a9e-f698-40fb-b8c5-445694ad6c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>4df69bce-b018-489a-a3b3-b1940818e396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Plug &amp; Charge</value>
+      <webElementGuid>c42c9c55-8b9a-4b15-bfc7-68aa3be7a414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footercontent&quot;)/div[@class=&quot;container-fluid no-padding ct-modal-dialog-secondary-grey1 ct-font--opensans-book&quot;]/div[@class=&quot;pwc-container&quot;]/div[@class=&quot;row no-gutters footer-container pwc-container--px-70&quot;]/div[@class=&quot;col-12 col-md-4 d-none d-md-block&quot;]/div[@class=&quot;content-asset&quot;]/ul[@class=&quot;ct-menu-list&quot;]/li[@class=&quot;ct-footer-link&quot;]/a[1]</value>
+      <webElementGuid>8f4232be-a62e-4938-b3d1-1d58660cf2d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footercontent']/div[2]/div/div/div[3]/div/ul/li[9]/a</value>
+      <webElementGuid>0962c171-f0b1-4188-8cb0-5c9afb7e9ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Plug &amp; Charge')])[2]</value>
+      <webElementGuid>c80b6bef-7286-45bd-91e8-1c41a616ed6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.continente.pt/servicos/plug-and-charge/')])[2]</value>
+      <webElementGuid>1cfdd7a0-8d0c-49c8-a731-0e24c0dd5e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div/ul/li[9]/a</value>
+      <webElementGuid>7aecda9f-cb3d-4963-88e5-55b818957904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.continente.pt/servicos/plug-and-charge/' and @title = 'Plug &amp; Charge' and (text() = 'Plug &amp; Charge' or . = 'Plug &amp; Charge')]</value>
+      <webElementGuid>6eb39651-f6fe-4cdf-a711-765fdf445f73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
