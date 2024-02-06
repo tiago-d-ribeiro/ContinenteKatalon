@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ver Produtos</name>
+   <tag></tag>
+   <elementGuidId>44901001-ca8c-4540-b1b0-efbeb295c4f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontent']/div[3]/div[4]/div[2]/div[5]/div/div/div/div/div[2]/div[2]/div[3]/div/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.d-none.d-sm-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>11088a7a-879f-4cc9-b2d4-60c41bb70b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-sm-block</value>
+      <webElementGuid>d9c6f977-bdf2-4e3d-8539-12bc8c75d9a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ver Produtos</value>
+      <webElementGuid>f1220c07-0135-42c9-bf8e-c7d9ecbea598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;container-margin search-results&quot;]/div[@class=&quot;search-results-grid&quot;]/div[@class=&quot;results-section&quot;]/div[@class=&quot;row product-grid no-gutters gtm-list&quot;]/div[@class=&quot;col-12 col-sm-3 col-lg-2 productTile&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-tile pid-foodchocolatequente  ct-product-tile col-product-tile product-set-paddings-grid&quot;]/div[@class=&quot;col-inner-tile-wrap pwc-product-set-height-grid h-100 pt-0 row no-gutters&quot;]/div[@class=&quot;product-set-information-container product-set-information-container-grid col-7 col col-sm-auto&quot;]/div[@class=&quot;ct-tile-bottom row no-gutters justify-content-between pwc-tile-bottom-padding-bottom-grid&quot;]/div[@class=&quot;pwc-tile-buy-section d-flex justify-content-center no-gutters pwc-tile-buy-section-product-set col-auto col-sm-12&quot;]/div[@class=&quot;container-add-button-options d-flex justify-content-center no-gutters col-sm-12&quot;]/a[@class=&quot;selectable text-center button col-button button--primary col-button--primary button-from-set dynamic-layout-btn&quot;]/span[@class=&quot;d-none d-sm-block&quot;]</value>
+      <webElementGuid>a14f3bbd-b758-446f-8a61-5e742cf14e70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontent']/div[3]/div[4]/div[2]/div[5]/div/div/div/div/div[2]/div[2]/div[3]/div/a/span[2]</value>
+      <webElementGuid>92761707-03bd-4ceb-a002-8ab1838f403c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/span[2]</value>
+      <webElementGuid>f50b07f3-5ce9-406a-a9f7-bb1aa09bd1cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ver Produtos' or . = 'Ver Produtos')]</value>
+      <webElementGuid>33eb699b-c31e-4647-99f5-024256128789</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
