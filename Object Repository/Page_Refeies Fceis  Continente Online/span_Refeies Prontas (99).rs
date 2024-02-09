@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Refeies Prontas (99)</name>
+   <tag></tag>
+   <elementGuidId>313a3ec6-a52d-48cb-8996-28655fad0157</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='refinement-categorias']/div[2]/ul[2]/li[8]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3775fd01-c128-40e3-9ce1-0aacb344ca2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Refeições Prontas</value>
+      <webElementGuid>7e54865e-48e5-42ef-a6e0-703568f35181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>refine-link</value>
+      <webElementGuid>85b42df1-9eaa-474a-8e99-3f29757dae35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b2bb4286-1e10-4959-8944-6683f14952ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-has-childs</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1bfee5d5-5e57-48b6-bda6-8de910ee45b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Refeições Prontas (99)
+            </value>
+      <webElementGuid>924b781b-9902-4cb0-9422-b964f9be08a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;refinement-categorias&quot;)/div[@class=&quot;js-category-refinements-wrapper category-refinement-wrapper&quot;]/ul[@class=&quot;values content row js-category-second-level category-second-level&quot;]/li[@class=&quot;refinement-value w-100 view-more-elem  hide-refinement category-refinement-element&quot;]/a[@class=&quot;category-refinement-btn&quot;]/span[@class=&quot;refine-link&quot;]</value>
+      <webElementGuid>b7a48f4b-2e27-48e2-aaf3-e0773dbb6b49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='refinement-categorias']/div[2]/ul[2]/li[8]/a/span</value>
+      <webElementGuid>32fb57bb-3b2c-48cc-9295-6f879c65370e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[8]/a/span</value>
+      <webElementGuid>fda98adb-696b-46a1-a3a6-97b60132a2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Refeições Prontas' and (text() = '
+                Refeições Prontas (99)
+            ' or . = '
+                Refeições Prontas (99)
+            ')]</value>
+      <webElementGuid>3eae26aa-cbe2-4204-9856-bcb9fdde84b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aderir j</name>
+   <tag></tag>
+   <elementGuidId>adae1329-b8af-455e-9cdc-71a2b38b34c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.expired-subscription</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontent']/div[5]/div/div/div/div/div[2]/div[2]/div[3]/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d317bf9-5ff7-456c-b611-f7b290eadc0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>expired-subscription</value>
+      <webElementGuid>d56bcdb8-2d66-418d-9c3d-b44d5a1031f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aderir já</value>
+      <webElementGuid>7cf18ba3-b73d-4861-ad42-28b3ddab98f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;ct-entrega-zero-products row no-margin padding-sm-down-x-15 padding-md-up-x-70 js-ct-entrega-zero-products&quot;]/div[@class=&quot;col-12 col-sm-6 text-center no-padding&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-tile pid-6077893   ct-product-tile col-product-tile ct-product-tile--entrega-zero-product&quot;]/div[@class=&quot;ct-inner-tile-wrap col-inner-tile-wrap row no-gutters justify-content-center align-content-start&quot;]/div[@class=&quot;ct-tile-body col col-sm-auto ct-e0-tile-body--vertical&quot;]/div[@class=&quot;ct-tile-bottom row no-gutters justify-content-between ct-tile-bottom-padding-bottom-grid&quot;]/div[@class=&quot;pwc-tile-buy-section d-flex justify-content-center no-gutters pwc-tile-buy-section-padding col-12 pwc-cta-align-bottom&quot;]/div[@class=&quot;ct-e0&quot;]/button[@class=&quot;add-to-cart button button--primary js-add-to-cart js-add-to-cart-tile col-button col-dynamic-layout-btn 6077893 button--primary col-button--primary e0-button&quot;]/span[@class=&quot;expired-subscription&quot;]</value>
+      <webElementGuid>c2685178-be17-49e0-bb06-b2d7963b00f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontent']/div[5]/div/div/div/div/div[2]/div[2]/div[3]/div/button/span</value>
+      <webElementGuid>27296f5a-bcc0-4e2d-aac7-f2f8e80e815c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>ea1f8783-786a-4f03-8aa9-34bff86cdf50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Aderir já' or . = 'Aderir já')]</value>
+      <webElementGuid>1e05c9f2-d81c-4db5-8680-f75b77a9536e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

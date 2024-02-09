@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Receitas  Inspirao</name>
+   <tag></tag>
+   <elementGuidId>53a6fbad-f314-45b6-92cb-416f032a76bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sg-navbar-collapse']/div/nav/div/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>57702595-c811-49e8-b91e-576a82812bf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://feed.continente.pt/?utm_source=continente+pt&amp;utm_medium=referral&amp;utm_campaign=Receitas+Feed&amp;utm_content=tab_receitas_col&amp;_gl=1*19mhwuj*_ga*MTUzNjc5NzMwMS4xNzA3Mzg4OTQ0*_ga_56Q9X41Z3T*MTcwNzM4ODk0MS4xLjAuMTcwNzM4ODk0OC41OC4wLjA.</value>
+      <webElementGuid>8c3ea81d-5314-4a52-b4c7-e8f1bd0ee740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>325c11db-1930-4b51-b08b-ef4c6ed6b3ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>b3e4797a-1992-468f-9250-490e44ca7f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>49ac8ef3-3efa-4ed2-b2cd-0bd41e67a719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>&quot;_blank&quot;</value>
+      <webElementGuid>c984717e-95a9-4bd4-a6f9-c88e4d77db2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>&quot;noopener&quot;</value>
+      <webElementGuid>839395f2-b5f2-47ef-8500-3575a9f8f284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Receitas &amp; Inspiração
+</value>
+      <webElementGuid>849b480e-9768-4cdf-b229-7c8974d5fcfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sg-navbar-collapse&quot;)/div[@class=&quot;main-menu-wrapper&quot;]/nav[@class=&quot;navbar navbar-expand-md bg-inverse col-12&quot;]/div[@class=&quot;menu-group d-none d-md-block&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item js-link-manageable&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>d2e4fedc-b638-492c-9b02-7e8e3072700d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sg-navbar-collapse']/div/nav/div/ul/li[6]/a</value>
+      <webElementGuid>06047330-0673-4139-8e92-84d189c7f569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Receitas &amp; Inspiração')]</value>
+      <webElementGuid>0c70e3d8-b172-4c7e-a004-fd45762cbbdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://feed.continente.pt/?utm_source=continente+pt&amp;utm_medium=referral&amp;utm_campaign=Receitas+Feed&amp;utm_content=tab_receitas_col&amp;_gl=1*19mhwuj*_ga*MTUzNjc5NzMwMS4xNzA3Mzg4OTQ0*_ga_56Q9X41Z3T*MTcwNzM4ODk0MS4xLjAuMTcwNzM4ODk0OC41OC4wLjA.')]</value>
+      <webElementGuid>c9550381-e45c-49aa-9492-8758350a14bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li[6]/a</value>
+      <webElementGuid>a4f2a901-975e-4c9d-9809-4353dbbbfb85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://feed.continente.pt/?utm_source=continente+pt&amp;utm_medium=referral&amp;utm_campaign=Receitas+Feed&amp;utm_content=tab_receitas_col&amp;_gl=1*19mhwuj*_ga*MTUzNjc5NzMwMS4xNzA3Mzg4OTQ0*_ga_56Q9X41Z3T*MTcwNzM4ODk0MS4xLjAuMTcwNzM4ODk0OC41OC4wLjA.' and (text() = '
+Receitas &amp; Inspiração
+' or . = '
+Receitas &amp; Inspiração
+')]</value>
+      <webElementGuid>c0efc1f6-512a-4959-aa8c-2b54276b776c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

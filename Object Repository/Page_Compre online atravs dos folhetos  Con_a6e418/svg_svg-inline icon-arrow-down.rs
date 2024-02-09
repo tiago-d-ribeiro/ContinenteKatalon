@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_svg-inline icon-arrow-down</name>
+   <tag></tag>
+   <elementGuidId>cda599a7-0c8c-4790-b2f5-1dc3a41de4ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline.icon-arrow-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>cbe66d33-ec67-4651-9170-bc885345ab2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline icon-arrow-down</value>
+      <webElementGuid>6d7150ee-ea7d-41bc-863e-cb92f6fe86de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>b2490658-4eaa-4d43-b9fb-ed87a7b9af0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 12 13</value>
+      <webElementGuid>c362fc82-7632-439d-991b-c5bc2fe67afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>665d7966-ddc3-44bd-8edf-9055ab1dfa19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>482551d4-6d80-42e7-8a54-e5c65389d7c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sg-navbar-collapse&quot;)/div[@class=&quot;main-menu-wrapper&quot;]/nav[@class=&quot;navbar navbar-expand-md bg-inverse col-12&quot;]/div[@class=&quot;menu-group d-none d-md-block&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/div[@class=&quot;menu-arrow-down d-none d-md-block&quot;]/span[@class=&quot;svg-wrapper svg-icon-arrow-down&quot;]/svg[@class=&quot;svg-inline icon-arrow-down&quot;]</value>
+      <webElementGuid>bce0921c-7b37-4ee1-8ea5-bc3d530a7552</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

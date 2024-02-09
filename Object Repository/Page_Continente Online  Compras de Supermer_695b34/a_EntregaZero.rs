@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_EntregaZero</name>
+   <tag></tag>
+   <elementGuidId>1991ad29-9f70-4649-a76a-fc9350400cdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sg-navbar-collapse']/div/nav/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4fcfae07-bf65-438c-aedb-5fd852413800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/servicos/entrega-zero/</value>
+      <webElementGuid>146b6dd8-b054-4733-95e7-13f9e55c443f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>57f11466-3269-42fd-8f50-a22cc38ffd27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>0a361444-98fe-480a-a02c-55c2ca80958d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>437c3011-de0e-4ed7-898e-c5c660eb7c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+EntregaZero
+</value>
+      <webElementGuid>527c96aa-5858-4e5b-9ae9-1c5d7a10352f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sg-navbar-collapse&quot;)/div[@class=&quot;main-menu-wrapper&quot;]/nav[@class=&quot;navbar navbar-expand-md bg-inverse col-12&quot;]/div[@class=&quot;menu-group d-none d-md-block&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item js-link-manageable&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>93728340-225b-4b23-9ba6-430eeb7a952f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sg-navbar-collapse']/div/nav/div/ul/li[4]/a</value>
+      <webElementGuid>7cae5bda-a59d-4177-9f63-eb174f8ebec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'EntregaZero')])[2]</value>
+      <webElementGuid>282fd202-d14d-4e7f-905e-be89b98895ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.continente.pt/servicos/entrega-zero/')])[2]</value>
+      <webElementGuid>11998ccd-86ac-4dcf-bfbe-baaefa00b3b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li[4]/a</value>
+      <webElementGuid>806b86b8-03c9-44b3-abe2-4b5539dfe1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.continente.pt/servicos/entrega-zero/' and (text() = '
+EntregaZero
+' or . = '
+EntregaZero
+')]</value>
+      <webElementGuid>55ecf38d-8661-4ac2-ad26-5cc85bc715c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

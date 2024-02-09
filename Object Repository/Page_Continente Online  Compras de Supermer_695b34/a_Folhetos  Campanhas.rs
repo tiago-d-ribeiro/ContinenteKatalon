@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Folhetos  Campanhas</name>
+   <tag></tag>
+   <elementGuidId>290392e8-497b-4ad8-8a8b-d626435c6cdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-item.js-link-manageable > a.nav-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sg-navbar-collapse']/div/nav/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7e575e74-5060-4a02-a8e5-dd8fe103c45d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/folhetos/</value>
+      <webElementGuid>f99e984e-cfa4-4e3f-a5dc-531089bb82a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>0cfedbcd-07e0-4f43-a416-a99583257bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>b1220d02-dd00-4a3e-bda8-bf7311ca810d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>c3fe44d0-d57e-435c-ad18-f6dcbc2c81a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Folhetos &amp; Campanhas
+</value>
+      <webElementGuid>9ca7a172-8c92-4802-9e48-df58df78cb7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sg-navbar-collapse&quot;)/div[@class=&quot;main-menu-wrapper&quot;]/nav[@class=&quot;navbar navbar-expand-md bg-inverse col-12&quot;]/div[@class=&quot;menu-group d-none d-md-block&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item js-link-manageable&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>e8984c3b-0f83-4fce-9163-7e4e56394e9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sg-navbar-collapse']/div/nav/div/ul/li[2]/a</value>
+      <webElementGuid>dd3491f0-2c35-42e4-93c4-44613d783ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Folhetos &amp; Campanhas')]</value>
+      <webElementGuid>91351a71-c99a-48ae-b994-1dae08c553cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.continente.pt/folhetos/')]</value>
+      <webElementGuid>6fb4c2c6-8fa9-41b2-bb3a-8287b3bd12a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li[2]/a</value>
+      <webElementGuid>126b050c-6f45-4ad9-b539-422436f42fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.continente.pt/folhetos/' and (text() = '
+Folhetos &amp; Campanhas
+' or . = '
+Folhetos &amp; Campanhas
+')]</value>
+      <webElementGuid>9b9c549d-c0d5-47ef-9bdb-b26b50895279</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

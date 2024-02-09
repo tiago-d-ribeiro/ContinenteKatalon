@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>fadea173-6490-44e6-a2c1-4ab0d2683df2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline.icon-logo-col > g > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>d4201080-376c-4d71-9724-e15cade50397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M87.63 15.24A14.71 14.71 0 10102.34 30a14.71 14.71 0 00-14.71-14.76m0-15A29.67 29.67 0 1158 30 29.67 29.67 0 0187.63.28m88.16 8.28c0-4.17 3.91-7.55 8.74-7.55h33c4.82 0 8.74 3.38 8.74 7.55s-3.92 7.55-8.74 7.55h-7.93v34.77c0 4.83-3.61 8.74-8.06 8.74s-8.07-3.91-8.07-8.74V16.11h-9c-4.83 0-8.74-3.38-8.74-7.55m180.12 37.33a7.15 7.15 0 017.25 7c0 3.91-3.31 6.77-7.26 6.77h-16.77c-10.13 0-20.6-7-20.6-18.27a16.63 16.63 0 014.45-11.41 16.63 16.63 0 01-4.45-11.41c0-11.27 10.47-18.31 20.6-18.31h16.78a7.14 7.14 0 017.25 7c0 3.9-3.31 6.76-7.26 6.76h-16.77c-5 0-6.87 3.17-6.87 4.54s1.83 4.55 6.87 4.55h16.78a7.14 7.14 0 017.25 7c0 3.91-3.31 6.76-7.26 6.76h-16.77c-5 0-6.87 3.18-6.87 4.55s1.83 4.54 6.87 4.54zM132.12 59.62A8.6 8.6 0 01123.7 51V24.54C123.7 9.63 136.91 0 150.06 0s26.37 9.63 26.37 24.54v26.31a8.43 8.43 0 11-16.84 0l.13-26.31c0-2.65-3-7.11-9.66-7.11s-9.65 4.46-9.65 7.11l.13 26.31a8.61 8.61 0 01-8.42 8.78m107.87 0a8.73 8.73 0 01-8.73-8.74v-40.1A8.73 8.73 0 01240 2.05h1.31a8.74 8.74 0 018.69 8.74v40.09a8.74 8.74 0 01-8.74 8.74zm27.24 0a8.61 8.61 0 01-8.42-8.63V24.54C258.81 9.63 272 0 285.18 0s26.37 9.63 26.37 24.54v26.31a8.43 8.43 0 11-16.84 0l.12-26.31c0-2.65-3-7.11-9.65-7.11s-9.65 4.46-9.65 7.11l.13 26.31a8.61 8.61 0 01-8.43 8.78m111.74 0a8.6 8.6 0 01-8.42-8.63V24.54C370.55 9.63 383.76 0 396.91 0s26.37 9.63 26.37 24.54v26.31a8.43 8.43 0 11-16.84 0l.13-26.31c0-2.65-3-7.11-9.66-7.11s-9.65 4.46-9.65 7.11l.13 26.31a8.61 8.61 0 01-8.39 8.77m45.16-51.06c0-4.17 3.92-7.55 8.74-7.55h33c4.82 0 8.73 3.38 8.73 7.55s-3.91 7.55-8.73 7.55H458v34.77c0 4.83-3.61 8.74-8.07 8.74s-8.06-3.91-8.06-8.74V16.11h-9c-4.82 0-8.74-3.38-8.74-7.55m90.15 37.33a7.15 7.15 0 017.25 7 7 7 0 01-7.26 6.77h-16.74c-10.13 0-20.6-7-20.6-18.27a16.63 16.63 0 014.45-11.41 16.63 16.63 0 01-4.45-11.41C476.93 7.3 487.4.26 497.53.26h16.78a7.14 7.14 0 017.25 7c0 3.9-3.32 6.76-7.26 6.76h-16.77c-5 0-6.87 3.17-6.87 4.54s1.83 4.55 6.87 4.55h16.78a7.14 7.14 0 017.25 7c0 3.91-3.32 6.76-7.26 6.76h-16.77c-5 0-6.87 3.18-6.87 4.55s1.83 4.54 6.87 4.54zM29.68 16a13.94 13.94 0 109.85 23.78 7.87 7.87 0 0111.13 11.15 29.67 29.67 0 110-42 7.87 7.87 0 11-11.14 11.16A13.88 13.88 0 0029.68 16</value>
+      <webElementGuid>32d3b5ed-0419-4967-b574-e13b41f13907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#e30613</value>
+      <webElementGuid>bf5ae158-f58f-4d03-939d-68b291a9a297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Camada 1</value>
+      <webElementGuid>5f7e4898-7a47-4287-a9bb-c7228fc9b8e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brand-header&quot;)/nav[@class=&quot;nav-wrapper col-nav-wrapper&quot;]/div[@class=&quot;sticky-element navigation-shadows&quot;]/div[@class=&quot;header-wrapper container-fluid container-margin d-flex align-items-center justify-content-between&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;navbar-header brand&quot;]/a[@class=&quot;header-logo&quot;]/span[@class=&quot;svg-wrapper svg-icon-logo-col&quot;]/svg[@class=&quot;svg-inline icon-logo-col&quot;]/g[1]/path[1]</value>
+      <webElementGuid>98909a93-59d1-4629-ace1-ae1946ce0813</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_LoginRegisto_svg-inline icon-arrow-down</name>
+   <tag></tag>
+   <elementGuidId>b40d1518-1dfc-483f-a07c-a64a24d38ac5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline.icon-arrow-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>b818c0b8-bb43-495b-abc4-17c179410fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline icon-arrow-down</value>
+      <webElementGuid>b2366fb4-09c0-4b28-a7d1-9b43cf6c674a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>5d1d4b97-cf9a-4dd5-a25d-86e644cffe8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 12 13</value>
+      <webElementGuid>c8a15bb5-c3b1-4c67-bae4-f1523120b99c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>a737f1a8-4f88-438b-becf-80233befde5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>71224dfb-ed13-414a-a1db-a664b830e44c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sg-navbar-collapse&quot;)/div[@class=&quot;main-menu-wrapper&quot;]/nav[@class=&quot;navbar navbar-expand-md bg-inverse col-12&quot;]/div[@class=&quot;menu-group d-none d-md-block&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/div[@class=&quot;menu-arrow-down d-none d-md-block&quot;]/span[@class=&quot;svg-wrapper svg-icon-arrow-down&quot;]/svg[@class=&quot;svg-inline icon-arrow-down&quot;]</value>
+      <webElementGuid>fc3a197b-f36b-4bb9-b413-3065e986faf6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

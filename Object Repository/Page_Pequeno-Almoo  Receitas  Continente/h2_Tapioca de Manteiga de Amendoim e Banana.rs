@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Tapioca de Manteiga de Amendoim e Banana</name>
+   <tag></tag>
+   <elementGuidId>bfa5cba4-1268-43c4-9be7-636bd443b80c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.highlightCard__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='recipeHighlight-037ec8c1-5f6a-4da4-baad-6d9810a263ec']/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>daad6423-7f31-4aaa-911f-9bc68b4aa6af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>highlightCard__title</value>
+      <webElementGuid>cb2edcb8-6da1-43f9-83f4-7fee439d3a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tapioca de Manteiga de Amendoim e Banana</value>
+      <webElementGuid>f39b7dd8-e9da-4738-9910-2965e06be1fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;recipeHighlight-037ec8c1-5f6a-4da4-baad-6d9810a263ec&quot;)/h2[@class=&quot;highlightCard__title&quot;]</value>
+      <webElementGuid>1632de1b-a51a-483e-828d-28c0a9170b11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='recipeHighlight-037ec8c1-5f6a-4da4-baad-6d9810a263ec']/h2</value>
+      <webElementGuid>95140288-eca9-4e35-b954-f7ed4b55f94c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>9f074ced-c7a3-483b-bda2-71502787a33d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Tapioca de Manteiga de Amendoim e Banana' or . = 'Tapioca de Manteiga de Amendoim e Banana')]</value>
+      <webElementGuid>d25db382-6b7d-47c7-b829-3bcac801d68c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

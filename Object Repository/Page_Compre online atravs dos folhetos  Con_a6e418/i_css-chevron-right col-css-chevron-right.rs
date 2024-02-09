@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_css-chevron-right col-css-chevron-right</name>
+   <tag></tag>
+   <elementGuidId>5f47a043-be0c-49a6-9c11-93e8a24f8e8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.dropdown-item.dropdown.show > a.dropdown-link.dropdown-toggle > div.menu-arrow-right.d-flex.justify-content-end > i.css-chevron-right.col-css-chevron-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sg-navbar-collapse']/div/nav/div/ul/li/ul/div/li[9]/a/div[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ce472e20-f3f2-46a0-9c09-7ebda16d1f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-chevron-right col-css-chevron-right</value>
+      <webElementGuid>2e1252ef-d77f-4932-8ed6-f527b7885bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sg-navbar-collapse&quot;)/div[@class=&quot;main-menu-wrapper&quot;]/nav[@class=&quot;navbar navbar-expand-md bg-inverse col-12&quot;]/div[@class=&quot;menu-group d-none d-md-block&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item dropdown show&quot;]/ul[@class=&quot;dropdown-menu item-shadow has-before show&quot;]/div[@class=&quot;container-dropdown-first-column&quot;]/li[@class=&quot;dropdown-item dropdown show&quot;]/a[@class=&quot;dropdown-link dropdown-toggle&quot;]/div[@class=&quot;menu-arrow-right d-flex justify-content-end&quot;]/i[@class=&quot;css-chevron-right col-css-chevron-right&quot;]</value>
+      <webElementGuid>922a1340-a7e9-4cf1-aa71-8f3378f22d92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sg-navbar-collapse']/div/nav/div/ul/li/ul/div/li[9]/a/div[2]/i</value>
+      <webElementGuid>ebc39ca5-a8e9-45cd-abea-fc48bd8a5705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a/div[2]/i</value>
+      <webElementGuid>bf053891-2d91-4d9f-af7b-236887c75352</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
