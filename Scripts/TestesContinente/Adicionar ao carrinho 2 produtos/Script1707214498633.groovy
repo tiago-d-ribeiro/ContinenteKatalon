@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TestesContinente/Adicionar ao carrinho 1 produto'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Button Carrinho Estrelitas/button_Carrinho_Estrelitas'))
+WebUI.click(findTestObject('Site Continente/Button Carrinho Estrelitas/button_Carrinho_EstrelitasMel'))
 
-WebUI.click(findTestObject('Button Carrinho Cereais Estrelitas Pack/button_Carrinho_EstrelitasPack'))
+WebUI.click(findTestObject('Site Continente/Button Carrinho Krave de Avelã/button_Carrinho_KraveDeAvel'))
 

@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TestesContinente/AbrirPáginaContinente'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_695b34/a_Apps Continente'))
+WebUI.click(findTestObject('Object Repository/Site Continente/PaginaInicial/a_Apps Continente'))
 
 WebUI.navigateToUrl('https://www.continente.pt/loja-online/apps/apps-continente.html')
 
-WebUI.click(findTestObject('Object Repository/Page_Apps Continente  Continente Online/img_img-fluid lazyloaded'))
+WebUI.click(findTestObject('Object Repository/Site Continente/Apps Continente/img_appsContinente'))
 

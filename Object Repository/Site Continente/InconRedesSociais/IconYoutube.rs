@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>IconYoutube</name>
+   <tag></tag>
+   <elementGuidId>f913728e-fb3d-4e93-94f4-9baa907b5262</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.d-inline-block.svgbg-icon-youtube</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footercontent']/div[2]/div/div/div/div[2]/ul/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8a088594-ddd2-419c-93f5-87a2430f6041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-inline-block svgbg-icon-youtube</value>
+      <webElementGuid>cf49934c-390c-4738-b415-b73d39773249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footercontent&quot;)/div[@class=&quot;container-fluid no-padding ct-modal-dialog-secondary-grey1 ct-font--opensans-book&quot;]/div[@class=&quot;pwc-container&quot;]/div[@class=&quot;row no-gutters footer-container pwc-container--px-70&quot;]/div[@class=&quot;col-12 col-md-4 pl-0 footer-component-wrapper&quot;]/div[@class=&quot;content-asset&quot;]/ul[@class=&quot;d-flex flex-row mb-0&quot;]/li[@class=&quot;footer-social-icon&quot;]/a[@class=&quot;ct-tooltip-trigger footer-social-icon--link&quot;]/span[@class=&quot;d-inline-block svgbg-icon-youtube&quot;]</value>
+      <webElementGuid>cade5e59-3cf8-47ff-a71b-096b3e084ff5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footercontent']/div[2]/div/div/div/div[2]/ul/li[3]/a/span</value>
+      <webElementGuid>e5fffcfc-4743-411c-804e-725cc3a271e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>858448d9-baff-44c1-96a9-02015208a9f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

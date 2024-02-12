@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TestesContinente/AbrirPáginaContinente'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_695b34/a_Carto D'))
+WebUI.click(findTestObject('Object Repository/Site Continente/PaginaInicial/a_Carto D'))
 
 WebUI.switchToWindowUrl('https://cartoesda.com/')
 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lupa_pesquisar</name>
+   <tag></tag>
+   <elementGuidId>401a1623-c706-44a1-aeab-efa976b2a81d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.svg-wrapper.svg-icon-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='brand-header']/nav/div/div/div/div[3]/form/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>37e19df5-85a2-45c6-a814-2b6eabf772ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-wrapper svg-icon-search</value>
+      <webElementGuid>5164ac2c-71bb-4915-8ffb-e79e71639f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brand-header&quot;)/nav[@class=&quot;nav-wrapper col-nav-wrapper&quot;]/div[@class=&quot;sticky-element navigation-shadows&quot;]/div[@class=&quot;header-wrapper container-fluid container-margin d-flex align-items-center justify-content-between&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;search d-none d-sm-none d-md-block&quot;]/form[@class=&quot;global-search-form&quot;]/div[@class=&quot;field-input-label col-field-input-label label-animation&quot;]/div[@class=&quot;search-suggestions-actions&quot;]/button[@class=&quot;search-button&quot;]/span[@class=&quot;svg-wrapper svg-icon-search&quot;]</value>
+      <webElementGuid>a3ce062d-0011-4339-9ad0-1baa43acf808</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='brand-header']/nav/div/div/div/div[3]/form/div/div/button/span</value>
+      <webElementGuid>ad2df5f5-08d6-4c81-bdb9-174ec1ffde91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/button/span</value>
+      <webElementGuid>49ece824-9252-4130-87c7-6a948e6d3aac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

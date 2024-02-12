@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TestesContinente/Pesquisar Produto'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Button Carrinho Cereais Chocapic/button_Carrinho_Chocapics'))
+WebUI.click(findTestObject('Object Repository/Site Continente/Button Carrinho Chocapics/button_Carrinho_Chocapics'))
 

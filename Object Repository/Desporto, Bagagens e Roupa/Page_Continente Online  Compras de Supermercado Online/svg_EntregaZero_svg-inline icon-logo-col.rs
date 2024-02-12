@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_EntregaZero_svg-inline icon-logo-col</name>
+   <tag></tag>
+   <elementGuidId>a2baca27-7048-481a-89c0-20dc9d719073</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline.icon-logo-col</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>a9b35993-b460-4079-b7ca-efb063c1677e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline icon-logo-col</value>
+      <webElementGuid>6467e1b1-770e-4b11-826c-b9a544dfd156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>f99b7664-7333-4945-aa53-cb54ec2679db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>8e5c8daa-fb38-43b3-924f-a462524ba404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>c8f503a6-41ee-414b-a8eb-de38f916d444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 521.56 59.62</value>
+      <webElementGuid>60b217f1-45a4-42b9-8010-e0e17f3e9d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brand-header&quot;)/nav[@class=&quot;nav-wrapper col-nav-wrapper&quot;]/div[@class=&quot;sticky-element navigation-shadows&quot;]/div[@class=&quot;header-wrapper container-fluid container-margin d-flex align-items-center justify-content-between&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;navbar-header brand&quot;]/a[@class=&quot;header-logo&quot;]/span[@class=&quot;svg-wrapper svg-icon-logo-col&quot;]/svg[@class=&quot;svg-inline icon-logo-col&quot;]</value>
+      <webElementGuid>c9b7a967-3bfe-4665-b75b-5b26aa888451</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TestesContinente/AbrirPáginaContinente'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_695b34/img_lazyloaded'))
+WebUI.click(findTestObject('Site Continente/LigaPortugal/img_LigaPortugal'))
 
 WebUI.switchToWindowTitle('Bilhetes Liga Portugal | Continente')
 

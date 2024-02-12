@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mapa do Site</name>
+   <tag></tag>
+   <elementGuidId>9506729e-4f4e-4e5a-9c37-a8412dcbf428</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12.col-md-3.d-none.d-md-block > div.content-asset > ul.ct-menu-list > li.ct-footer-link > a[title=&quot;Go to Mapa do Site&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footercontent']/div[2]/div/div/div[2]/div/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8d08838e-0f2b-4d62-967f-bb2eff0161e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/sitemap/</value>
+      <webElementGuid>ae9328e2-8137-4f83-874d-a6ab7067ac9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Go to Mapa do Site</value>
+      <webElementGuid>ae128edd-f615-4663-89b1-d8b029044082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mapa do Site</value>
+      <webElementGuid>6b1800b1-e5d7-45cd-98ba-f64bef3f89c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footercontent&quot;)/div[@class=&quot;container-fluid no-padding ct-modal-dialog-secondary-grey1 ct-font--opensans-book&quot;]/div[@class=&quot;pwc-container&quot;]/div[@class=&quot;row no-gutters footer-container pwc-container--px-70&quot;]/div[@class=&quot;col-12 col-md-3 d-none d-md-block&quot;]/div[@class=&quot;content-asset&quot;]/ul[@class=&quot;ct-menu-list&quot;]/li[@class=&quot;ct-footer-link&quot;]/a[1]</value>
+      <webElementGuid>06d7412a-202b-4c4c-a81e-2c3bf156110e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footercontent']/div[2]/div/div/div[2]/div/ul/li[6]/a</value>
+      <webElementGuid>1d18b72e-fb44-403f-9ed4-77a2b29a1f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Mapa do Site')])[2]</value>
+      <webElementGuid>6dff0a00-4a61-4cb1-bd65-007b72f87077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.continente.pt/sitemap/')])[2]</value>
+      <webElementGuid>510d33a5-e420-47da-bca2-b5aa93e94686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[6]/a</value>
+      <webElementGuid>9707e706-a29c-4ecd-a451-a9f217c1fca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.continente.pt/sitemap/' and @title = 'Go to Mapa do Site' and (text() = 'Mapa do Site' or . = 'Mapa do Site')]</value>
+      <webElementGuid>6fb8da1a-d13b-45df-aba4-38fdc3b941ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Como  que me inscrevo para fazer parte do_e3849d</name>
+   <tag></tag>
+   <elementGuidId>c69cfc81-0ecd-4d2b-bd0d-6841f7562ea8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.collapsed-content__separator__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fa3c7271-600f-490f-894f-317a17e57949']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>57aca4aa-023b-4971-b591-5e5ac6758f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapsed-content__separator__title</value>
+      <webElementGuid>a0212e9e-b39d-450b-bb6e-4a858db75426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Como é que me inscrevo para fazer parte do Clube Continente do Bebé?
+                    </value>
+      <webElementGuid>393ee723-602c-4c07-900e-d5880f27bd82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fa3c7271-600f-490f-894f-317a17e57949&quot;)/div[@class=&quot;collapsed-content__separator&quot;]/div[@class=&quot;collapsed-content__separator__header&quot;]/p[@class=&quot;collapsed-content__separator__title&quot;]</value>
+      <webElementGuid>416fe345-389b-493b-98ac-1c9d4e4d6c82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fa3c7271-600f-490f-894f-317a17e57949']/div/div/p</value>
+      <webElementGuid>c13be937-7946-4680-9e5c-f8545dfd2e4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/article/div[2]/div/div/p</value>
+      <webElementGuid>62c956ab-131e-46ee-9fd1-fe31d58bc527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+                        Como é que me inscrevo para fazer parte do Clube Continente do Bebé?
+                    ' or . = '
+                        Como é que me inscrevo para fazer parte do Clube Continente do Bebé?
+                    ')]</value>
+      <webElementGuid>5076a5d6-d84b-47e2-bbb6-e52a0656fc78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -19,13 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TestesContinente/AbrirPáginaContinente'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_695b34/span_d-inline-block svgbg-icon-facebook'))
+WebUI.click(findTestObject('Object Repository/Site Continente/InconRedesSociais/IconFacebook'))
 
 WebUI.switchToWindowUrl('https://www.facebook.com/continenteoficial')
 
 WebUI.navigateToUrl('https://www.facebook.com/continenteoficial')
 
-WebUI.click(findTestObject('Object Repository/Page_Continente  Facebook/span_Decline optional cookies'))
+WebUI.click(findTestObject('Object Repository/Site Continente/Facebook/span_Decline optional cookies'))
 
-WebUI.click(findTestObject('Object Repository/Page_Continente  Facebook/i_x1b0d499 x1d69dk1'))
+WebUI.click(findTestObject('Object Repository/Site Continente/Facebook/i_x1b0d499 x1d69dk1'))
 

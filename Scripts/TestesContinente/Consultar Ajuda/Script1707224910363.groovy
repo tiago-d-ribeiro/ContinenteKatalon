@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TestesContinente/AbrirPáginaContinente'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_695b34/span_Ajuda'))
+WebUI.click(findTestObject('Object Repository/Site Continente/PaginaInicial/span_Ajuda'))
 
 WebUI.navigateToUrl('https://www.continente.pt/loja-online/ajuda/')
 
-WebUI.click(findTestObject('Object Repository/Page_Ajuda  Continente Online/a_Como devo fazer o registo'))
+WebUI.click(findTestObject('Object Repository/Site Continente/Pagina Consultar Ajuda/a_Como devo fazer o registo'))
 

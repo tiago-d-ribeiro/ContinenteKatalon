@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_img-fluid pwc-border--radius</name>
+   <tag></tag>
+   <elementGuidId>9fc73834-56ee-4f37-ba45-27e474c92383</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Papel, Guardanapos e Lenços&quot;] > picture.intrinsic.intrinsic--category-tile > img.img-fluid.pwc-border--radius</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slick-slide01']/div/a/picture/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>09c3fbfe-0133-41f4-be65-a655d59b8f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid pwc-border--radius</value>
+      <webElementGuid>251546a7-0183-44a8-b7ef-ca41e8ed13f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-global-navigation-catalog/default/dwaf4c6370/images/marcas/marca-propria/standard/eco-papel.jpg?sw=600&amp;sh=150</value>
+      <webElementGuid>c205136e-c0a3-4612-9d20-7ee7371553a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Papel, Guardanapos e Lenços</value>
+      <webElementGuid>64b82e1d-4c31-4060-8829-e514a14406a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Papel, Guardanapos e Lenços</value>
+      <webElementGuid>7fd2261d-d193-4013-8f80-fcc2a14c3085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slick-slide01&quot;)/div[@class=&quot;category-tile-image pwc-border--radius&quot;]/a[1]/picture[@class=&quot;intrinsic intrinsic--category-tile&quot;]/img[@class=&quot;img-fluid pwc-border--radius&quot;]</value>
+      <webElementGuid>a94ab474-ec34-4aba-8a8a-6c9fdcb5c915</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slick-slide01']/div/a/picture/img</value>
+      <webElementGuid>cc836f27-8a98-44be-af74-d93d9f898ec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Papel, Guardanapos e Lenços']</value>
+      <webElementGuid>7bf35867-caff-41ca-a419-b467a015f951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/picture/img</value>
+      <webElementGuid>3ae98e04-408c-4b33-be4c-e79e3a4a878b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-global-navigation-catalog/default/dwaf4c6370/images/marcas/marca-propria/standard/eco-papel.jpg?sw=600&amp;sh=150' and @alt = 'Papel, Guardanapos e Lenços' and @title = 'Papel, Guardanapos e Lenços']</value>
+      <webElementGuid>b0698be1-3f9a-4eb0-97bb-48e1fbab18e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

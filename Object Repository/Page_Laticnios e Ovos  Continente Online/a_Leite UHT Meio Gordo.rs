@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Leite UHT Meio Gordo</name>
+   <tag></tag>
+   <elementGuidId>d6b1b899-220b-4aa6-ac85-41666ca1d3c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.pwc-tile--description.col-tile--description</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontent']/div[2]/div[4]/div[2]/div[5]/div/div/div/div/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fc2a1012-e18f-4cc4-83ee-b23953183263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pwc-tile--description col-tile--description</value>
+      <webElementGuid>c4fc3891-d6ce-4f2d-b2c8-b2b1e926b3a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/produto/leite-uht-meio-gordo-mimosa-2210946.html</value>
+      <webElementGuid>79010bee-e413-4881-998b-d19ebac977eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leite UHT Meio Gordo</value>
+      <webElementGuid>d448d620-01da-4f2b-8784-8168d1f20430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;container-margin search-results&quot;]/div[@class=&quot;search-results-grid&quot;]/div[@class=&quot;results-section&quot;]/div[@class=&quot;row product-grid no-gutters gtm-list&quot;]/div[@class=&quot;col-12 col-sm-3 col-lg-2 productTile&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-tile pid-2210946 ct-product-tile col-product-tile data-layer-pushed&quot;]/div[@class=&quot;ct-inner-tile-wrap col-inner-tile-wrap row no-gutters justify-content-center align-content-start&quot;]/div[@class=&quot;ct-tile-body col col-sm-auto&quot;]/div[@class=&quot;ct-pdp-details&quot;]/div[@class=&quot;ct-pdp-link col-pdp-link&quot;]/a[@class=&quot;pwc-tile--description col-tile--description&quot;]</value>
+      <webElementGuid>c4c3f057-050e-48d4-9b84-babd7f177107</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontent']/div[2]/div[4]/div[2]/div[5]/div/div/div/div/div[2]/div/div/a</value>
+      <webElementGuid>a32bf132-bcd2-4a94-b3f8-f15e6912beca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Leite UHT Meio Gordo')]</value>
+      <webElementGuid>7825c90e-660e-46b9-8a4d-6a2a459052a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.continente.pt/produto/leite-uht-meio-gordo-mimosa-2210946.html')])[2]</value>
+      <webElementGuid>790dab28-15b5-4cda-8ee0-22dcc56843ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]/div/div/a</value>
+      <webElementGuid>3ab567f8-787f-46be-8cb7-a687575be72d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.continente.pt/produto/leite-uht-meio-gordo-mimosa-2210946.html' and (text() = 'Leite UHT Meio Gordo' or . = 'Leite UHT Meio Gordo')]</value>
+      <webElementGuid>d22eb919-bbcc-4a36-97d1-746691232459</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Iogurte Lquido Protena Morango e Framboesa</name>
+   <tag></tag>
+   <elementGuidId>f339826c-9db6-445c-a3ff-7acef013dd68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontent']/div[3]/div[4]/div[2]/div[5]/div[6]/div/div/div/div[3]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>703bd986-e671-4fb5-a1a2-84d0405f61f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pwc-tile--description col-tile--description</value>
+      <webElementGuid>6b5c59df-d4d3-4f5e-8c83-181600ff190c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/produto/iogurte-liquido-proteina-morango-e-framboesa-yopro-danone-6892594.html</value>
+      <webElementGuid>0cf0e0fe-0e55-4b29-ba5b-72fd52fb7e5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iogurte Líquido Proteína Morango e Framboesa</value>
+      <webElementGuid>f4a78a29-d1e9-425e-97cb-f163db4e2123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;container-margin search-results&quot;]/div[@class=&quot;search-results-grid&quot;]/div[@class=&quot;results-section&quot;]/div[@class=&quot;row product-grid no-gutters gtm-list&quot;]/div[@class=&quot;col-12 col-sm-3 col-lg-2 productTile&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-tile pid-6892594 ct-product-tile col-product-tile data-layer-pushed&quot;]/div[@class=&quot;ct-inner-tile-wrap col-inner-tile-wrap row no-gutters justify-content-center align-content-start&quot;]/div[@class=&quot;ct-tile-body col col-sm-auto&quot;]/div[@class=&quot;ct-pdp-details&quot;]/div[@class=&quot;ct-pdp-link col-pdp-link&quot;]/a[@class=&quot;pwc-tile--description col-tile--description&quot;]</value>
+      <webElementGuid>6f89674a-213b-4c84-a1de-c50ec9ade0c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontent']/div[3]/div[4]/div[2]/div[5]/div[6]/div/div/div/div[3]/div/div/a</value>
+      <webElementGuid>df55ab78-ff07-4261-97aa-fa2d3d203299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Iogurte Líquido Proteína Morango e Framboesa')]</value>
+      <webElementGuid>bb0c6cf6-d4c0-4c4b-88a3-ed46e21d6925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.continente.pt/produto/iogurte-liquido-proteina-morango-e-framboesa-yopro-danone-6892594.html')])[2]</value>
+      <webElementGuid>863b4b38-d071-4de0-9d26-d09cea32e90e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a</value>
+      <webElementGuid>576eb99f-6579-4034-9ab0-3b7ef703214a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.continente.pt/produto/iogurte-liquido-proteina-morango-e-framboesa-yopro-danone-6892594.html' and (text() = 'Iogurte Líquido Proteína Morango e Framboesa' or . = 'Iogurte Líquido Proteína Morango e Framboesa')]</value>
+      <webElementGuid>d3482a0d-3b7b-44c4-918e-6044b2516de5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

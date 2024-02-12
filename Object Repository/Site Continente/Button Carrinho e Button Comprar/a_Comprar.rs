@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Comprar</name>
+   <tag></tag>
+   <elementGuidId>986aa52c-b2f9-4500-a454-c2ab3caa4875</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.button--primary.minicart-add-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='minicart-footer']/div/div[2]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1a85bcd2-47ac-4deb-b912-292d5bc8981e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df0db8c5-35d4-4120-b2e9-65399b5cecce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/recomendacoes/?rurl=3</value>
+      <webElementGuid>b045f734-bea9-4275-9332-1dffe31ab15e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--primary minicart-add-button</value>
+      <webElementGuid>f48ece22-22e2-4931-90c7-50ab014e82cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+ Comprar</value>
+      <webElementGuid>ad68a70d-4793-44c4-88ed-249e3cda1a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;minicart-footer&quot;)/div[@class=&quot;minicart-footer&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;col&quot;]/a[@class=&quot;button button--primary minicart-add-button&quot;]</value>
+      <webElementGuid>705c21b3-211d-45fd-b432-d96e286bb06d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='minicart-footer']/div/div[2]/div[2]/a</value>
+      <webElementGuid>9a23b504-6e49-48df-b0be-6bfd0173819c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.continente.pt/recomendacoes/?rurl=3')])[2]</value>
+      <webElementGuid>79033243-d968-4e17-9e1d-bea7afd113f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/a</value>
+      <webElementGuid>141fdb4e-2f01-4665-84b4-69e36446f0b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.continente.pt/recomendacoes/?rurl=3' and (text() = '
+
+ Comprar' or . = '
+
+ Comprar')]</value>
+      <webElementGuid>ed96a7f4-041c-471e-ad1c-2b05b9aa73b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
