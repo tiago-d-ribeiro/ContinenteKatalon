@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>//*[@id=&quot;product-search-results&quot;]/div/div[2]/div[3]/div[12]/div/div/div/div[3]/div[2]/div[3]/div[2]/button</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;product-search-results&quot;]/div/div[2]/div[3]/div[9]/div/div/div/div[3]/div[2]/div[3]/div[2]/button/span[2]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5c141219-a6ee-4777-9a1f-6ef681064487</webElementGuid>
+      <webElementGuid>c7fbc81f-da91-47b9-85ce-ffa424de7b7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2d102c16-8d3e-4366-b9b0-2a609d5eabe9</webElementGuid>
+      <webElementGuid>44655c3e-ad70-42d1-9506-b25da28f08e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>add-to-cart button button--primary js-add-to-cart js-add-to-cart-tile col-button col-dynamic-layout-btn 6172488 button--primary col-button--primary dynamic-layout-btn</value>
-      <webElementGuid>c07f2fd3-64a6-4892-a464-9b78d6c36917</webElementGuid>
+      <webElementGuid>20762693-bcc0-4f76-a0b4-8f0cad10fb13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>bb6e524c-fb09-4943-b7ea-aa52416d223f</webElementGuid>
+      <webElementGuid>e5205760-78f8-4df4-a781-8cc617b4c276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>data-target</name>
       <type>Main</type>
       <value>#chooseBonusProductModal</value>
-      <webElementGuid>30f1242d-141d-4607-ab0c-9aef23ecc48a</webElementGuid>
+      <webElementGuid>e230e29b-02f2-48ff-8b2c-4817c2faee7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>data-pid</name>
       <type>Main</type>
       <value>6172488</value>
-      <webElementGuid>0ed3ab31-8075-4688-8a9f-687a2022c7a3</webElementGuid>
+      <webElementGuid>259c8a7f-b1e2-4968-a044-99858269ecca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,30 +74,23 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Carrinho</value>
-      <webElementGuid>734c1e13-c7f2-41ad-bd81-972e16df1924</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>
-
-
-
-
-
-Carrinho
-</value>
-      <webElementGuid>f2baeb0d-3038-4d92-aa47-548694d42a66</webElementGuid>
+      <webElementGuid>b5bdb360-29de-4243-9232-8c3d17dcf41c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Carrinho</value>
+      <webElementGuid>b5e10cd2-3ce3-482c-b7d4-104f499e6900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;product-search-results&quot;)/div[@class=&quot;search-results-grid&quot;]/div[@class=&quot;results-section&quot;]/div[@class=&quot;row product-grid no-gutters gtm-list&quot;]/div[@class=&quot;col-12 col-sm-3 col-lg-2 productTile&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-tile pid-6172488 ct-product-tile col-product-tile data-layer-pushed&quot;]/div[@class=&quot;ct-inner-tile-wrap col-inner-tile-wrap row no-gutters justify-content-center align-content-start&quot;]/div[@class=&quot;ct-tile-body col col-sm-auto&quot;]/div[@class=&quot;ct-tile-bottom row no-gutters justify-content-between ct-tile-bottom-padding-bottom-grid&quot;]/div[@class=&quot;pwc-tile-buy-section d-flex justify-content-center no-gutters pwc-tile-buy-section-padding col-auto col-sm-12 pwc-cta-align-bottom&quot;]/div[@class=&quot;col-sm-10 col-12&quot;]/button[@class=&quot;add-to-cart button button--primary js-add-to-cart js-add-to-cart-tile col-button col-dynamic-layout-btn 6172488 button--primary col-button--primary dynamic-layout-btn&quot;]</value>
-      <webElementGuid>272c8536-aaf9-4c4d-b763-22ace4ad1145</webElementGuid>
+      <value>//*[@id=&quot;product-search-results&quot;]/div/div[2]/div[3]/div[9]/div/div/div/div[3]/div[2]/div[3]/div[2]/button/span[2]</value>
+      <webElementGuid>d91c1b80-4f74-47de-9e5f-e4c63ce09a42</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +98,7 @@ Carrinho
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[19]</value>
-      <webElementGuid>631e35f9-340e-43a9-96e8-adadc5b11139</webElementGuid>
+      <webElementGuid>87088f55-6a15-466d-a5f8-10f1c072eb27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +106,7 @@ Carrinho
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='product-search-results']/div/div[2]/div[3]/div[12]/div/div/div/div[3]/div[2]/div[3]/div[2]/button</value>
-      <webElementGuid>00716715-398c-4eb4-b20c-835cde8919a1</webElementGuid>
+      <webElementGuid>e5f249f5-f06f-4a9c-b6b4-519212cfb44e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +114,7 @@ Carrinho
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[12]/div/div/div/div[3]/div[2]/div[3]/div[2]/button</value>
-      <webElementGuid>7e1fc6ff-52a4-4fa3-80a7-cd833459b782</webElementGuid>
+      <webElementGuid>ecc0f765-c59f-4b03-879b-37b731c83c90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,6 +136,6 @@ Carrinho
 
 Carrinho
 ')]</value>
-      <webElementGuid>11524430-5bb1-4398-b84f-23ea9370418d</webElementGuid>
+      <webElementGuid>ba3e0b3c-7b25-4d25-9f7f-c20f2172f022</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
