@@ -19,13 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TestesContinente/AbrirPáginaContinente'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Site Continente/PaginaInicial/img_ClubeContinenteDoBebJunte-seAoClube'))
+WebUI.click(findTestObject('Object Repository/CampanhaSaborBrasil/Page_Continente Online  Compras de Supermer_695b34/img_Preos Bombsticos_lazyloaded'))
 
-WebUI.switchToWindowTitle('Clube Continente do Bebé | Continente')
-
-WebUI.navigateToUrl('https://feed.continente.pt/gravidez-bebe/clube-continente-do-bebe?utm_source=hp-col&utm_medium=referral&utm_campaign=24-feira-bebe&utm_term=S6&utm_content=banner_1&_gl=1*1pa4kp2*_ga*MTc0NTY4ODg4OC4xNzA3NDc0MDIx*_ga_56Q9X41Z3T*MTcwNzQ3NDAxOC4xLjAuMTcwNzQ3NDAyNC41OS4wLjA.')
-
-WebUI.click(findTestObject('Object Repository/Site Continente/PaginaClubeContinenteDoBebé/button_AceitarTodos_ClubeContinenteDoBebé'))
-
-WebUI.click(findTestObject('Object Repository/Site Continente/PaginaClubeContinenteDoBebé/p_Como  que me inscrevo para fazer parte do_e3849d'))
+WebUI.navigateToUrl('https://www.continente.pt/campanhas/sabor-a-brasil/?start=0&srule=category-default-sorting&pmin=0.01')
 

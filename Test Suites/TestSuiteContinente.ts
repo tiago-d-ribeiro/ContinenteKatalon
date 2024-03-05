@@ -50,7 +50,7 @@
       <guid>05a47849-75a7-4120-a376-60ab9b77cc21</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestesContinente/Clube Continente do Bebé</testCaseId>
+      <testCaseId>Test Cases/TestesContinente/Consultar Sabores Brasil</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
